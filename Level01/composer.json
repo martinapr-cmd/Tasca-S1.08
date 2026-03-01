@@ -1,0 +1,12 @@
+{
+    "name": "marpo/tasca-s1.08",
+    "authors": [
+        {
+            "name": "Mar",
+            "email": "marpouradressa@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "10.5"
+    }
+}
